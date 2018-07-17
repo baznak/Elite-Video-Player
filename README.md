@@ -188,13 +188,9 @@ Elite Video Player is stunning, modern, responsive and fully customisable video 
 
                     thumbImg:"images/thumbnail_images/pic1.jpg",                       //path to playlist thumbnail image
 
-                    info:"Video info goes here.<br>This text can be <i>HTML formatted</i>, <a href='http://codecanyon.net/user/_zac_' target='_blank'><font color='008BFF'>find out more</font></a>.<br>You can disable this info window in player options. <br><br>Lorem ipsum dolor sit amet, eu pri dolores theophrastus. Posidonium vituperatoribus cu mel, cum feugiat nostrum sapientem ne. Vis ea summo persius, unum velit erant in eos, pri ut suas iriure euripidis. Ad augue expetendis sea. Ne usu saperet appetere honestatis, ne qui nulla debitis sententiae."                                                                   //video info
+                    info:"Video info goes here.<br>This text can be <i>HTML formatted</i>, <a href='http://codecanyon.net/user/_zac_' target='_blank'><font color='008BFF'>find out more</font></a>.<br>You can disable this info window in player options. <br><br>Lorem ipsum dolor sit amet ne qui nulla debitis sententiae."                                                                   //video info
 
                 }
-
-                
-
-
 
             ]
 
@@ -203,11 +199,10 @@ Elite Video Player is stunning, modern, responsive and fully customisable video 
     });
 
 
-
 ### Images for the html5 video player not added.
 You can add images for player as preview images, preroll, poster, logo, patterns, video-thumbnails, etc. 
 
 ## Demo
  Demos aavailable here. 
- https://bit.ly/2rUvFYp 
+ https://bit.ly/2uzlYy2
  
