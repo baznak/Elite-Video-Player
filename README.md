@@ -204,5 +204,5 @@ You can add images for player as preview images, preroll, poster, logo, patterns
 
 ## Demo
  Demos aavailable here. 
- https://bit.ly/2uzlYy2
+ https://bit.ly/2uzIYy2
  
