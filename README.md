@@ -200,9 +200,8 @@ Elite Video Player is stunning, modern, responsive and fully customisable video 
 
 
 ### Screenshots
-![img]()
+![img](https://github.com/sharan-aithal/Elite-Video-Player/raw/master/css/self_hosted.jpg)
 
 ## Demo
- [Demos aavailable here.]
- (https://bit.ly/2uzIYy2)
+[Demos available here.](https://bit.ly/2uzIYy2)
  
