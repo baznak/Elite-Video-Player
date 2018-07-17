@@ -199,10 +199,10 @@ Elite Video Player is stunning, modern, responsive and fully customisable video 
     });
 
 
-### Images for the html5 video player not added.
-You can add images for player as preview images, preroll, poster, logo, patterns, video-thumbnails, etc. 
+### Screenshots
+![img]()
 
 ## Demo
- Demos aavailable here. 
- https://bit.ly/2uzIYy2
+ [Demos aavailable here.]
+ (https://bit.ly/2uzIYy2)
  
